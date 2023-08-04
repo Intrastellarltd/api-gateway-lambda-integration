@@ -36,8 +36,6 @@ def lambda_handler(event, context):
 
 Deployed API
 
-[https://igu65hixj4.execute-api.us-east-1.amazonaws.com/Dev/heytherelambda](https://igu65hixj4.execute-api.us-east-1.amazonaws.com/Dev/heytherelambda)
-
 ---
 
 ### POST Method
