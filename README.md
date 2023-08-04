@@ -55,5 +55,3 @@ def lambda_handler(event, context):
 #### API Gateway - Post Method
 
 Deployed API
-
----
